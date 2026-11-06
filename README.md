@@ -25,3 +25,11 @@ To develop strong Python, Machine Learning and Generative AI skills by practisin
 
 I will regularly update this repository with my learning notes, practice programs and projects.
 
+## 🚀 How to Run
+1. Install Python and Jupyter Notebook.
+2. Clone this repository.
+3. Open the project folder in Jupyter Notebook.
+4. Open the required `.ipynb` file and run the cells.
+
+## 📸 Screenshots
+Screenshots of my Python practice and projects will be added here.
